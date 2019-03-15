@@ -57,6 +57,13 @@ class ComposerStaticInit9a1f8e470b3921b61e9ab02f9e02277e
     );
 
     public static $prefixesPsr0 = array (
+        'p' => 
+        array (
+            'phpUnitTutorial' => 
+            array (
+                0 => __DIR__ . '/../..' . '/',
+            ),
+        ),
         'P' => 
         array (
             'Prophecy\\' => 

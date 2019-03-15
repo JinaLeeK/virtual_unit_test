@@ -1,5 +1,8 @@
 {
     "autoload":{
+      "psr-0": {
+        "phpUnitTutorial":""
+      },
       "classmap" : [
         "src/"
       ]
